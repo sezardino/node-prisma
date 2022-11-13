@@ -34,4 +34,4 @@ GET http://localhost:3000/user/3/drafts
 
 ###
 
-GET http://localhost:3000/feed
+GET http://localhost:3000/feed?searchString=prisma&skip=1&take=2
